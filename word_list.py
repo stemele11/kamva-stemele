@@ -1,0 +1,1 @@
+words=['kamva','stemele','rophiwa','matoro','eminem','chris','james','life','happy','joke']
